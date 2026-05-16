@@ -1,11 +1,16 @@
 # Compiled Java files
-.class
-.jar
+*.class
+*.jar
 
-# NetBeans specific
-nbproject
-build
-dist
+# IDE files
+*.iml
+.classpath
+.project
+.settings/
+bin/
+build/
+dist/
+nbproject/
 private.properties
 private.xml
 
