@@ -1,0 +1,14 @@
+# Compiled Java files
+.class
+.jar
+
+# NetBeans specific
+nbproject
+build
+dist
+private.properties
+private.xml
+
+# OS files
+.DS_Store
+Thumbs.db
